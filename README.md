@@ -8,7 +8,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 # How to Deploy AlphaX Userbot?
 Get given Credentials from Links below and save them, then click on Deploy to Heroku Button. 
 ### API ID AND API HASH 
-ŦEŁEGŘλM 𝙰𝙰𝙿 𝙸𝙳 & 𝙰𝙿𝙸 𝙷𝙰𝚂𝙷 FROM 
+ŦEŁEGŘλM 𝙰𝙿𝙸 𝙸𝙳 & 𝙰𝙿𝙸 𝙷𝙰𝚂𝙷 FROM 
  ⤵
 </p><p align="centre"><a href="https://my.telegram.org"> <img src="https://img.shields.io/badge/telegram-AAP_ID API_HASH-blue?style=social&logo=telegram" alt="APIHASH" /></a> 
 

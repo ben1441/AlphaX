@@ -11,8 +11,11 @@ Get given Credentials from Links below and save them, then click on Deploy to He
 Get your TELEGRAM ID's API id and API hash from [HERE](my.telegram.org).
 
 ### SESSION STRING 
-To Get Your String Session: [Click Here](https://replit.com/@RoyalDevendra/AlphaX-session)
+<a href="https://replit.com/@RoyalDevendra/AlphaX-session" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
+<a href="https://replit.com/@loverboyXD/ALPHA-X-2" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+
+<a href="https://replit.com/@loverboyXD/ALPHA-X" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a> 
 ### MONGODB DATABASE_URI
 ##### How to Get DATABASE_URI from Mongodb?
 Check out and Watch the [VIDEO](https://youtu.be/GzsjrTrNgEE) to get DATABASE_URI 

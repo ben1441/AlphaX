@@ -23,10 +23,10 @@ Get your TELEGRAM ID's API id and API hash from [HERE](my.telegram.org).
 ##### How to Get DATABASE_URI from Mongodb?
 Check out and Watch the to get DATABASE_URI 
 
-➠ WATCH VIDEO ➣
-<a fref="https://youtu.be/GzsjrTrNgEE"><img src="https://img.shields.io/badge/How%20To%20GET-DATABASE-green.svg?logo=Youtube"></a> §
+➠ VIDEO ➣
+<a fref="https://youtu.be/GzsjrTrNgEE"><img src="https://img.shields.io/badge/How%20To%20GET-DATABASE-green.svg?logo=Youtube"></a> 
  
- <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/DATABASE-MANGOdb-green?style=for-the-badge&logo=mangodb.com" alt="DATABASE_URI" /></a>
+➠ WEBSITE➢ <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/DATABASE-MANGOdb-green?style=for-the-badge&logo=mangodb.com" alt="DATABASE_URI" /></a>
 
 # SUPPORT 
 

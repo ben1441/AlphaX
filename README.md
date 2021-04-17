@@ -5,7 +5,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 ![AlphaX](https://telegra.ph/file/f4bd8ce3fcfdb38f2ff1d.jpg)
 
-## How to Deploy AlphaX Userbot?
+# How to Deploy AlphaX Userbot?
 Get given Credentials from Links below and save them, then click on Deploy to Heroku Button. 
 ### API ID AND API HASH 
 Get your TELEGRAM ID's API id and API hash from [HERE](my.telegram.org).
@@ -18,7 +18,7 @@ To Get Your String Session: [Click Here](https://replit.com/@RoyalDevendra/Alpha
 Check out and Watch the [VIDEO](https://youtu.be/GzsjrTrNgEE) to get DATABASE_URI 
 ➥ [Click Here](https://youtu.be/GzsjrTrNgEE)
 
-## SUPPORT 
+# SUPPORT 
 
 THIS IS SUPPORT FOR THE BOT 
 

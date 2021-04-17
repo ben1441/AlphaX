@@ -3,7 +3,7 @@ The Most Powerful Telegram Userbot.
 This Userbot is Safe to use in Your Telegram Account.
 It is not like the other bots which are being Suspended by Heroku. Hence, it can be deployed to Heroku.
 
-![AlphaX](https://telegra.ph/file/f4bd8ce3fcfdb38f2ff1d.jpg)
+![AlphaX](https://telegra.ph/file/c6b2850976725b59bb5dc.jpg)
 
 # How to Deploy AlphaX Userbot?
 Get given Credentials from Links below and save them, then click on Deploy to Heroku Button. 

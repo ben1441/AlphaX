@@ -25,13 +25,13 @@ Check out and Watch the [VIDEO](https://youtu.be/GzsjrTrNgEE) to get DATABASE_UR
 
 THIS IS SUPPORT FOR THE BOT 
 
-➦Join CHANNEL 🔽
+➦Join CHANNEL ⤵
 
-</p><p align="centre"><a href="https://t.me/AlphaXUpdates"><img src="https://img.shields.io/badge/telegram-updates_channel-blue?style=social&logo=telegram" alt="CHANNEL" /></a>
+</p><p align="centre"><a href="https://t.me/AlphaXUpdates"><img src="https://img.shields.io/badge/telegram-updates_channel-blue?style=social&logo=telegram" alt="CHANNEL" /></a> ✓
 
 
-➥Join GROUP   🔽
+➥Join GROUP ⤵
 
-</p><p align="centre"><a href="https://t.me/AlphaXHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
+</p><p align="centre"><a href="https://t.me/AlphaXHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a> ✓
 
 

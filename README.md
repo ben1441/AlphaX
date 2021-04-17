@@ -22,5 +22,4 @@ Check out and Watch the [VIDEO](https://youtu.be/GzsjrTrNgEE) to get DATABASE_UR
 
 THIS IS SUPPORT FOR THE BOT 
 
-➦Join CHANNEL ➣ [Click Here](https://telegram.me/AlphaXUpdates)
-➥Join GROUP   ➣ [Click Here](https://telegram.me/AlphaXHelpChat)
+➦Join CHANNEL ➣ [Click Here](https://telegram.me/AlphaXUpdates)\n➥Join GROUP   ➣ [Click Here](https://telegram.me/AlphaXHelpChat)

@@ -25,7 +25,10 @@ Check out and Watch the [VIDEO](https://youtu.be/GzsjrTrNgEE) to get DATABASE_UR
 
 THIS IS SUPPORT FOR THE BOT 
 
-➦Join CHANNEL ➣ [Click Here](https://telegram.me/AlphaXUpdates)
+➦Join CHANNEL 🔽
+
+</p><p align="centre"><a href="https://t.me/AlphaXUpdates"><img src="https://img.shields.io/badge/telegram-updates_channel-blue?style=social&logo=telegram" alt="CHANNEL" /></a>
+
 
 ➥Join GROUP   🔽
 

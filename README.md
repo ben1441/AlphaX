@@ -27,8 +27,8 @@ THIS IS SUPPORT FOR THE BOT
 
 ➦Join CHANNEL ➣ [Click Here](https://telegram.me/AlphaXUpdates)
 
-➥Join GROUP   ➣ [Click Here](https://telegram.me/AlphaXHelpchat)
+➥Join GROUP   🔽
 
-# <p </p><p align="centre"><a href="https://t.me/AlphaXHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
+</p><p align="centre"><a href="https://t.me/AlphaXHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
 
 

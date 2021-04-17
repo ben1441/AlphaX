@@ -29,6 +29,6 @@ THIS IS SUPPORT FOR THE BOT
 
 ➥Join GROUP   ➣ [Click Here](https://telegram.me/AlphaXHelpchat)
 
-# <p align="left"><a href="https://github.com/Thealphax/AlphaX"><img src="https://github-readme-stats.vercel.app/api/pin?username=Thealphax&show_icons=true&theme=dark&hide_border=true&repo=ALPHAX"></a></p><p align="centre"><a href="https://t.me/AlphaXHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
+# <p </p><p align="centre"><a href="https://t.me/AlphaXHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
 
 

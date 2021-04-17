@@ -12,16 +12,16 @@ Get given Credentials from Links below and save them, then click on Deploy to He
 𝙰𝙰𝙿 𝙸𝙳 & 𝙰𝙿𝙸 𝙷𝙰𝚂𝙷 
 FROM 
  ⤵
-   </p><p align="centre"><a href="my.telegram.org"> <img src="https://img.shields.io/badge/telegram-AAP_ID API_HASH-blue?style=social&logo=telegram" alt="APIHASH" /></a> ༻
+   </p><p align="centre"><a href="my.telegram.org"> <img src="https://img.shields.io/badge/telegram-AAP_ID API_HASH-blue?style=social&logo=telegram" alt="APIHASH" /></a> 乡
 
 
 
 ### SESSION STRING 
-<a href="https://replit.com/@RoyalDevendra/AlphaX-session" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+<a href="https://replit.com/@RoyalDevendra/AlphaX-session" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a> Ӂ
 
-<a href="https://replit.com/@loverboyXD/ALPHA-X-2" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+<a href="https://replit.com/@loverboyXD/ALPHA-X-2" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a> Ӂ
 
-<a href="https://replit.com/@loverboyXD/ALPHA-X" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a> 
+<a href="https://replit.com/@loverboyXD/ALPHA-X" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a> Ӂ
 ###### ALL ARE SAFE YOU CAN USE ANY OF THEM😌
 
 
@@ -30,9 +30,9 @@ FROM
 Check out and Watch the to get DATABASE_URI 
 
 ➠ VIDEO ➣
-<a fref="https://youtu.be/GzsjrTrNgEE"><img src="https://img.shields.io/badge/How%20To%20GET-DATABASE-green.svg?logo=Youtube"></a> 
+<a fref="https://youtu.be/GzsjrTrNgEE"><img src="https://img.shields.io/badge/How%20To%20GET-DATABASE-green.svg?logo=Youtube"></a> •ᐇ•
  
-➠ WEBSITE➢ <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MANGOdb-DATABASE_URI-green?style=for-the-badge&logo=mangodb.com" alt="DATABASE_URI" /></a>
+➠ WEBSITE➢ <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MANGOdb-DATABASE_URI-green?style=for-the-badge&logo=mangodb.com" alt="DATABASE_URI" /></a> •⛦•
 
 # SUPPORT 
 

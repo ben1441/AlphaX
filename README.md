@@ -21,6 +21,8 @@ Get your TELEGRAM ID's API id and API hash from [HERE](my.telegram.org).
 Check out and Watch the [VIDEO](https://youtu.be/GzsjrTrNgEE) to get DATABASE_URI 
 ➥ [Click Here](https://youtu.be/GzsjrTrNgEE)
 
+<a href="https://youtu.be/GzsjrTrNgEE"><img src="https://img.shields.io/badge/How%20To%2GET-MANGOdb%DATABASEURI-blue.svg?logo=Youtube"></a>
+
 # SUPPORT 
 
 THIS IS SUPPORT FOR THE BOT 

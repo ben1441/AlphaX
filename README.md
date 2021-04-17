@@ -1,1 +1,2 @@
-# AlphaX
+# [AlphaX](https://telegram.me/AlphaXUpdates)
+

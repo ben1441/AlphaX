@@ -11,7 +11,7 @@ Get given Credentials from Links below and save them, then click on Deploy to He
 ŦEŁEGŘλM 
 𝙰𝙰𝙿 𝙸𝙳 & 𝙰𝙿𝙸 𝙷𝙰𝚂𝙷 
 FROM 
- ⤵</p><p align="centre"><a href="my.telegram.org"> <img src="https://img.shields.io/badge/telegram-AAP_ID API_HASH-blue?style=social&logo=telegram" alt="APIHASH" /></a> 
+ ⤵༺ </p><p align="centre"><a href="my.telegram.org"> <img src="https://img.shields.io/badge/telegram-AAP_ID API_HASH-blue?style=social&logo=telegram" alt="APIHASH" /></a> ༻
 
 
 
@@ -39,11 +39,11 @@ THIS IS SUPPORT FOR THE BOT
 
 ➦Join CHANNEL ⤵
 
-</p><p align="centre"><a href="https://t.me/AlphaXUpdates"><img src="https://img.shields.io/badge/telegram-updates_channel-blue?style=social&logo=telegram" alt="CHANNEL" /></a> ✓
+༺ </p><p align="centre"><a href="https://t.me/AlphaXUpdates"><img src="https://img.shields.io/badge/telegram-updates_channel-blue?style=social&logo=telegram" alt="CHANNEL" /></a> ༻
 
 
 ➥Join GROUP ⤵
 
-</p><p align="centre"><a href="https://t.me/AlphaXHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a> ✓
+༺ </p><p align="centre"><a href="https://t.me/AlphaXHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a> ༻
 
 

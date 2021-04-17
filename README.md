@@ -20,7 +20,7 @@ Get your TELEGRAM ID's API id and API hash from [HERE](my.telegram.org).
 ##### How to Get DATABASE_URI from Mongodb?
 Check out and Watch the to get DATABASE_URI 
 
-VIDEO⤵ 
+WATCH VIDEO ➣
 <a fref="https://youtu.be/GzsjrTrNgEE"><img src="https://img.shields.io/badge/How%20To%20GET-DATABASE-green.svg?logo=Youtube"></a> ✓
 
 # SUPPORT 

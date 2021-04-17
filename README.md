@@ -11,7 +11,7 @@ Get given Credentials from Links below and save them, then click on Deploy to He
 ŦEŁEGŘλM 𝙰𝙰𝙿 𝙸𝙳 & 𝙰𝙿𝙸 𝙷𝙰𝚂𝙷 FROM 
  ⤵
  
-</p><p align="centre"><a href="my.telegram.org"> <img src="https://img.shields.io/badge/telegram-AAP_ID API_HASH-blue?style=social&logo=telegram" alt="APIHASH" /></a> 
+       </p><p align="centre"><a href="my.telegram.org"> <img src="https://img.shields.io/badge/telegram-AAP_ID API_HASH-blue?     style=social&logo=telegram" alt="APIHASH" /></a> 
 
 ### SESSION STRING 
 <a href="https://replit.com/@RoyalDevendra/AlphaX-session" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>

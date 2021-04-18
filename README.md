@@ -1,10 +1,10 @@
 <p align="center">
     <a href="https://github.com/TheAlphaX/AlphaX">
-        <img src="resources/alphax.jpg" alt="alphax">
+        <img src="./resources/alphax.jpg" alt="alphax">
     </a>
     <br>
     <b>AlphaX UserBot</b><br>
-    <h5>The Future Bot</h5>
+    <h5 align="center">The Future Bot</h5>
 </p>
 
 

@@ -20,8 +20,9 @@ Click on API Development Tools
 
 Create a new application, by entering the required details
 
-For ALPHAx""")
+For AlphaX""")
 
+print("╔═╗┬  ┌─┐┬ ┬┌─┐  ═╗ ╦\n╠═╣│  ├─┘├─┤├─┤  ╔╩╦╝\n╩ ╩┴─┘┴  ┴ ┴┴ ┴  ╩ ╚═")
 print("")
 
 APP_ID = int(input("Enter APP ID here: "))

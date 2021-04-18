@@ -4,12 +4,17 @@
 
         <img src="resources/alphax.jpg" alt="alphax">
 
-
     </a>
+
     <br>
+
     <b>AlphaX UserBot</b><br>
-    <b>The Future Bot</b>
+
+    <h5>The Future Bot</h5>
+
 </p>
+
+
 
 
 # [AlphaX](https://telegram.me/AlphaXUpdates) Userbot

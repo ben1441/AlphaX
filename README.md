@@ -1,18 +1,19 @@
-<p align="center">
+ALPHA X A POWER FULL TELEGRAM USERBOT TO MANAGE YOUR ACCOUNTS 
+![ALPHAX](https://telegra.ph/file/0c68ed6aa0e324f87b04b.jpg)
 
-    <a href="https://github.com/TheAlphaX/AlphaX">
+   
 
-        <img src="resources/alphax.jpg" alt="alphax">
 
-    </a>
 
-    <br>
+
+
+    
 
     <b>AlphaX UserBot</b><br>
 
-    <h5>The Future Bot</h5>
 
-</p>
+
+
 
 
 

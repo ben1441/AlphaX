@@ -41,13 +41,10 @@ Check out and Watch the to get DATABASE_URI
 THIS IS SUPPORT FOR THE BOT 
 
 ➦Join CHANNEL ⤵
-
-↧ </p><p align="centre"><a href="https://t.me/AlphaXUpdates"><img src="https://img.shields.io/badge/telegram-updates_channel-blue?style=social&logo=telegram" alt="CHANNEL" /></a> ༻
+<a href="https://t.me/AlphaXUpdates"><img src="https://img.shields.io/badge/Join-Channel-teal.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 ➥Join GROUP ⤵
-
-↧ </p><p align="centre"><a href="https://t.me/AlphaXHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a> ༻
 <a href="https://t.me/AlphaXHelpChat"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 

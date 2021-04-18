@@ -2,8 +2,8 @@
 The Most Powerful Telegram Userbot.
 This Userbot is Safe to use in Your Telegram Account.
 It is not like the other bots which are being Suspended by Heroku. Hence, it can be deployed to Heroku.
-https://app.codacy.com/project/badge/Grade/cba8fd0874ac4f569f4f880e473cbac9?branch=dev
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/TheAlphaX/AlphaX?utm_source=github.com&utm_medium=referral&utm_content=TheAlphaX/AlphaX&utm_campaign=Badge_Grade_Settings)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cba8fd0874ac4f569f4f880e473cbac9?branch=dev)](https://app.codacy.com/gh/TheAlphaX/AlphaX?utm_source=github.com&utm_medium=referral&utm_content=TheAlphaX/AlphaX&utm_campaign=Badge_Grade_Settings)
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 

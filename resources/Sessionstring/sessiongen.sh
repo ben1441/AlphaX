@@ -2,12 +2,22 @@
 
 clear
 
-echo "╔═══╦╗──╔═══╦╗─╔╦═══╗
-║╔═╗║║──║╔═╗║║─║║╔═╗║
-║║─║║║──║╚═╝║╚═╝║║─║║   ╔╗╔╗
-║╚═╝║║─╔╣╔══╣╔═╗║╚═╝║   ╚╬╬╝
-║╔═╗║╚═╝║║──║║─║║╔═╗║   ╔╬╬╗
-╚╝─╚╩═══╩╝──╚╝─╚╩╝─╚╝   ╚╝╚╝"
+echo "╭━━━╮╭╮╱╱╱╭━━━╮╭╮╱╭╮╭━━━╮
+
+┃╭━╮┃┃┃╱╱╱┃╭━╮┃┃┃╱┃┃┃╭━╮┃
+
+┃┃╱┃┃┃┃╱╱╱┃╰━╯┃┃╰━╯┃┃┃╱┃┃
+
+┃╰━╯┃┃┃╱╭╮┃╭━━╯┃╭━╮┃┃╰━╯┃
+
+┃╭━╮┃┃╰━╯┃┃┃╱╱╱┃┃╱┃┃┃╭━╮┃
+
+╰╯╱╰╯╰━━━╯╰╯╱╱╱╰╯╱╰╯╰╯╱╰╯
+
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
+
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
+"
 
 # Termux session string generator for scorpion
 
@@ -23,8 +33,8 @@ pkg upgrade -y
 
 pkg install python wget -y
 
-wget https://raw.githubusercontent.com/TheAlphaX/AlphaX/main/resources/sessionstring/scorpion-setup.py
+wget https://raw.githubusercontent.com/TheAlphaX/AlphaX/main/resources/sessionstring/alphax-setup.py
 
 pip install telethon
 
-python scorpion-setup.py
+python alphax-setup.py

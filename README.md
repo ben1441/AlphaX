@@ -40,11 +40,11 @@ Check out and Watch the to get DATABASE_URI
 
 THIS IS SUPPORT FOR THE BOT 
 
-➦Join CHANNEL ⤵
+➦Join CHANNEL ⤵<br>
 <a href="https://t.me/AlphaXUpdates"><img src="https://img.shields.io/badge/Join-Channel-teal.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-➥Join GROUP ⤵
+➥Join GROUP ⤵<br>
 <a href="https://t.me/AlphaXHelpChat"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 

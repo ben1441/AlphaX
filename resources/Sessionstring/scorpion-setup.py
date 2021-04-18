@@ -20,7 +20,7 @@ Click on API Development Tools
 
 Create a new application, by entering the required details
 
-For scorpion""")
+For ALPHAx""")
 
 print("")
 
@@ -34,7 +34,7 @@ with TelegramClient(StringSession(), APP_ID, API_HASH) as client:
 
     tele.reply(
 
-        "The above is the `STRING_SESSION` for your current session.\n@scorpion_support")
+        "The above is the `STRING_SESSION` for your current session.\n@AlphaXHelpChat")
 
     print("")
 

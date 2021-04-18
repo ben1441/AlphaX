@@ -1,24 +1,14 @@
-ALPHA X A POWER FULL TELEGRAM USERBOT TO MANAGE YOUR ACCOUNTS 
-![ALPHAX](https://telegra.ph/file/0c68ed6aa0e324f87b04b.jpg)
-
+<p align="center">
+   <a href="https://github.com/TheAlphaX/AlphaX">
+      <img src="resources/alphax.jpg" alt="alphax">
+      </a>
+      <br>
+      <b>AlphaX UserBot</b><br>
+      <b>The Future Bot</b>
+   </p>
    
+# [AlphaX](https://telegram.me/AlphaXUpdates) userbot
 
-
-
-
-
-    
-
-    <b>AlphaX UserBot</b><br>
-
-
-
-
-
-
-
-
-# [AlphaX](https://telegram.me/AlphaXUpdates) Userbot
 The Most Powerful Telegram Userbot.
 This Userbot is Safe to use in Your Telegram Account.
 It is not like the other bots which are being Suspended by Heroku. Hence, it can be deployed to Heroku.

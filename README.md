@@ -42,8 +42,8 @@ Check out and Watch the to get DATABASE_URI
 ➠ WEBSITE➢ <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MANGOdb-DATABASE_URI-green?style=for-the-badge&logo=mangodb.com" alt="DATABASE_URI" /></a>
 # SUPPORT 
 
-➦<a href="https://t.me/AlphaXUpdates"><img src="https://img.shields.io/badge/Join-Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/AlphaXUpdates" target="_blank"><img src="https://img.shields.io/badge/Join-Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
 
-➥<a href="https://t.me/AlphaXHelpChat"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/AlphaXHelpChat" target="_blank"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 

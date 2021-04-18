@@ -4,7 +4,7 @@
     </a>
     <br>
     <b>AlphaX UserBot</b><br>
-    <h5 align="center">The Future Bot</h5>
+    <b>The Future Bot</b>
 </p>
 
 

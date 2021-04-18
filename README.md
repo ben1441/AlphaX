@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/TheAlphaX/AlphaX">
-        <img src="https://telegra.ph/file/0c68ed6aa0e324f87b04b.jpg" alt="alphax">
+        <img src="resources/extras/alphax.jpg" alt="alphax">
     </a>
     <br>
     <b>AlphaX UserBot</b><br>

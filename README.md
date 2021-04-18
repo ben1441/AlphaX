@@ -27,7 +27,7 @@ FROM
 
 ### MONGODB DATABASE_URI
 ##### How to Get DATABASE_URI from Mongodb?
-eck out and Watch the to get DATABASE_URI 
+Check out and Watch the to get DATABASE_URI 
 
 ➠ VIDEO ➣
 <a href="https://youtu.be/GzsjrTrNgEE"><img src="https://img.shields.io/badge/How%20To%20GET-DATABASE-red.svg?logo=Youtube"></a><a href="https://youtu.be/GzsjrTrNgEE"><img src="https://img.shields.io/badge/Tutorial-red?style=social&logo=Youtube"></a> ᐖ

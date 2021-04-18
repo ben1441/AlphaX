@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/TheAlphaX/AlphaX">
-        <img src="./resources/alphax.jpg" alt="alphax">
+        <img src="https://telegra.ph/file/0c68ed6aa0e324f87b04b.jpg" alt="alphax">
     </a>
     <br>
     <b>AlphaX UserBot</b><br>
@@ -18,7 +18,6 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/TheAlphaX/AlphaX)
 
-![AlphaX](https://telegra.ph/file/0c68ed6aa0e324f87b04b.jpg)
 
 # How to Deploy AlphaX Userbot?
 Get given Credentials from Links below and save them, then click on Deploy to Heroku Button. 

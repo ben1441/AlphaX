@@ -1,6 +1,6 @@
-<p align="center">
-    <a href="https://github.com/TheAlphaX/AlphaX">
-        <img src="resources/extras/alphax.jpg" alt="alphax">
+[![ALPHAX](https://telegra.ph/file/5c44586604040148d39ce.mp4)]
+
+
     </a>
     <br>
     <b>AlphaX UserBot</b><br>

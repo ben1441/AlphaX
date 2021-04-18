@@ -48,5 +48,6 @@ THIS IS SUPPORT FOR THE BOT
 ➥Join GROUP ⤵
 
 ↧ </p><p align="centre"><a href="https://t.me/AlphaXHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a> ༻
+<a href="https://t.me/AlphaXHelpChat"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 

@@ -1,4 +1,8 @@
-[![ALPHAX](https://telegra.ph/file/5c44586604040148d39ce.mp4)]
+<p align="center">
+
+    <a href="https://github.com/TheAlphaX/AlphaX">
+
+        <img src="resources/alphax.jpg" alt="alphax">
 
 
     </a>

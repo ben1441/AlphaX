@@ -2,11 +2,11 @@
    
    <a href="https://github.com/TheAlphaX/AlphaX">
       <img src="resources/alphax.jpg" alt="alphax">
-    </a>
-    <br>
-    <b>AlphaX UserBot</b><br>
-    <b>The Future Bot</b>
- </p>
+   </a>
+   <br>
+   <b>AlphaX UserBot</b><br>
+   <b>The Future Bot</b>
+</p>
  
    
 # [AlphaX](https://telegram.me/AlphaXUpdates) userbot

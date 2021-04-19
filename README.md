@@ -22,7 +22,12 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 
 # How to Deploy AlphaX Userbot?
-Get given Credentials from Links below and save them, then click on Deploy to Heroku Button. 
+##### click on Deploy to Heroku Button 
+
+Tutorial VIDEO WILL AVAILABLE SOON!
+
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheAlphax/Alphax) 
+
 ### API ID AND API HASH 
 ŦEŁEGŘλM 
 𝙰𝙿𝙿 𝙸𝙳 & 𝙰𝙿𝙸 𝙷𝙰𝚂𝙷 

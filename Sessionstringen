@@ -1,7 +1,7 @@
-# scorpion - UserBot
-# Copyright (C) 2021 scorpion
+# AlphaX - UserBot
+# Copyright (C) 2021 AlphaX
 #
-# This file is a part of < https://github.com/loverboyXD/scorpion-userbot/ >
-# PLease read the GNU Affero General Public License in <https://www.github.com/loverboyXD/scorpion-userbot/blob/mainfucker/LICENSE/>.
+# This file is a part of < https://github.com/TheAlphaX/AlphaX/ >
+# PLease read the GNU Affero General Public License in <https://www.github.com/TheAlphaZ/AlphaX/blob/main/LICENSE/>.
 
 bash resources/Sessionstring/sessiongen.sh

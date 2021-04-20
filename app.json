@@ -1,6 +1,6 @@
 {
 
- "name": "ALPHAx - UserBot",
+ "name": "AlphaX - UserBot",
 
  "description": "An advanced Telethon userbot to protect you from scammers with extra features ",
 
@@ -59,7 +59,7 @@
 
   "STRING_SESSION": {
 
-   "description": "Important to activate get it from here :- https://replit.com/@loverboyXD/Scorpion-sessionstring",
+   "description": "Important to activate get it from here :- https://replit.com/@RoyalDevendra/AlphaX-session",
 
    "value": ""
    

@@ -2,10 +2,6 @@
    
    <a href="https://github.com/TheAlphaX/AlphaX">
       <img src="resources/extras/alphax.png" alt="alphax">
-      <video width="320" height="240" controls>
-      <source src="resources/extras/alphax.mp4" type="video/mp4">
-      AlphaX.
-      </video>
    </a>
    <br>
    <b>AlphaX UserBot</b><br>

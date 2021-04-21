@@ -1,9 +1,9 @@
 import asyncio
 from telethon import events
 from telethon.tl.types import ChannelParticipantsAdmins
-from ALPHAX import ALIVE_NAME, StartTime
-from ALPHAX.utils import admin_cmd
-from ALPHAX import bot
+from ALPHA import ALIVE_NAME, StartTime
+from ALPHA.utils import admin_cmd
+from ALPHA import bot
 from telethon import version
 from math import ceil
 import json
@@ -11,12 +11,12 @@ import random
 import re
 from telethon import events, errors, custom
 import io
-from ALPHAX.helpers.functions import get_readable_time
+from ALPHA.helpers.functions import get_readable_time
 import time
 import os
 import datetime
 # importing ENDED HERE
-from ALPHAX import botname
+from ALPHA import botname
 BOT = str(botname) if botname else "Aℓρђα ㄨ"
 NAME = str(ALIVE_NAME) if ALIVE_NAME else "Aℓρђα ㄨ user"
 tim = get_readable_time((time.time() - StartTime))

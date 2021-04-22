@@ -5,7 +5,7 @@ if ENV:
     import os
     class config(object):
        LOGGER = True 
-       # GET YOUR own value from my.telegram.org mere kang maat karna "-" 
+       # GET YOUR own value from my.telegram.org mere kang maat karna"-" 
        SUDO_COMMAND_HAND_LER = os.environ.get("SUDO_COMMAND_HAND_LER", r"\.") 
        TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", "Modified") 
        BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
